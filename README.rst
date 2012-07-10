@@ -3,6 +3,15 @@ migraine
 
 Transform boring monochrome bitmaps into dazzling monochrome graphics!
 
+Dependencies
+============
+
+The following Perl modules are required:
+
+* `GD <http://search.cpan.org/perldoc?GD>`_
+* `Image::BMP <http://search.cpan.org/perldoc?Image::BMP>`_
+* `YAML::Any <http://search.cpan.org/perldoc?YAML::Any>`_
+
 Usage
 =====
 
